@@ -283,7 +283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   smallBox: {fileID: 7009123131336867523, guid: 453c238c7ecd2fa4793d8bda8bfeef51,
     type: 3}
-  min: 1
+  min: 5
   max: 10
 --- !u!4 &488096656
 Transform:
